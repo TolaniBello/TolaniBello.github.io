@@ -1,15 +1,15 @@
 ---
 layout: home
-title: Ta'quavian Johnson
-description: CEAMLS SAIRI Summer 2025 Research Website
+title: Omotolani Bello
+description: Omotolani Bello's CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "Imperfection breeds creativity, do not be scared to make mistakes!"
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🎓 Junior, Biology @ Alabama Agricultural and Mechanical University"
+  - "🔬 Research: Trustworthy Multimodal AI for Skin Cancer Detection"
+  - "📍 Based in Huntsville, AL"
+  - "🚀 Becoming a model of excellence to people"
 
 linkedin: https://www.linkedin.com/in/taquavian-johnson/
 image: /assets/images/me.jpg
