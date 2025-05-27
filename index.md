@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Huntsville, AL"
   - "🚀 Becoming a model of excellence to people"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin: https://www.linkedin.com/in/omotolani-bello/
 image: /assets/images/me.jpg
 ---
