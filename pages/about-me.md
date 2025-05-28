@@ -27,12 +27,12 @@ about:
       description: I love reading because I think it keeps me creative and help feed my imaginations.
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
+    - image: /assets/images/AB467D01-E892-413B-A655-99D92242C8AC.jpeg
+      caption: Just listening to music and doing whatever
+    - image: /assets/images/E9ED6AE6-2974-43F5-9F1A-5D494473A802.jpeg
+      caption: Food tasting at a conference
     - image: /assets/images/me.jpg
       caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: /assets/images/B7CC8079-AD52-4BF6-B7EC-793CCEFF0F4A.jpeg
+      caption: My favorite books as of now!
 ---
