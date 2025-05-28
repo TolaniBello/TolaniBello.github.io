@@ -7,7 +7,7 @@ about:
   name: Omotolani Bello
   role: Junior, Biology at Alabama Agricultural and Mechanical University
   image: /assets/images/6BE673B6-5022-4D32-A51A-254B6BCAE54D.jpeg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  linkedin: https://www.linkedin.com/in/omotolani-bello-674b47267/
   bio: |
     I’m currently a junior studying Biology at Alabama Agricultural and Mechanical University in Huntsville, Alabama. I expect to graduate in 2027.
 
