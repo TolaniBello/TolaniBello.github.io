@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Huntsville, AL"
   - "🚀 Becoming a model of excellence to people"
 
-linkedin: https://www.linkedin.com/in/omotolani-bello/
+linkedin: [https://www.linkedin.com/in/omotolani-bello/](https://www.linkedin.com/in/omotolani-bello-674b47267/)
 image: /assets/images/me.jpg
 ---
