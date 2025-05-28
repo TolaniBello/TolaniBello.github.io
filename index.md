@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Becoming a model of excellence to people"
 
 linkedin: https://www.linkedin.com/in/omotolani-bello-674b47267/
-image: /assets/images/me.jpg
+image: /assets/images/6BE673B6-5022-4D32-A51A-254B6BCAE54D.jpeg
 ---
