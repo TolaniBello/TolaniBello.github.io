@@ -1,10 +1,11 @@
 ---
+
 layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+subtitle: Trustworthy Multimodal AI for Skin Cancer Detection
+project_title: "Trustworthy Multimodal AI for Skin Cancer Detection"
 
 problem: |
   This research project focuses on developing and evaluating a trustworthy multimodal Al system for skin cancer detection. The project will integrate dermatoscopic images, clinical metadata, and machine learning models to enhance the accuracy and interpretability of Al-based skin cancer diagnosis. The study aims to address issues of bias, fairness, and explainability in existing Al models while using open-source datasets for model training and evaluation.
@@ -25,7 +26,7 @@ approach: |
 - Evaluate models based on accuracy, fairness, and explainability metrics
 
 
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
+  Open-source tools such as Python, TensorFlow, PyTorch, OpenCV, NumPy, and Pandas for model development, image processing, and data manipulation. It also employs SHAP and Grad-CAM for explainable AI, as well as AIF360 and Fairlearn for fairness and bias evaluation. The datasets used—HAM10000, PAD-UFES-20, and MRA-MIDAS—are all publicly available and open-source, supporting transparency and reproducibility in research.
 
 outcome: |
   By the end of the 10-week research period, the project will deliver:
